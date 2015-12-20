@@ -79,3 +79,6 @@ It will reverse original series:
 >> arr2
 == [3 4 5 6]
 ```
+
+# License 
+In the license.md file.

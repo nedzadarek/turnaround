@@ -1,4 +1,5 @@
 REBOL [
+ license: https://github.com/nedzadarek/turnaround/license.md
 ]
 turnaround: function [
     {Change the directions. 
